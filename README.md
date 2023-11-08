@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K-a-m-o
-- 👀 I’m interested in OOP in C#, Unity, VR, AR and Backend Development
-- 🌱 I’m currently learning Node, Java, NOSQL, SQL, Python, PowerBI
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning AI Development
 - 💞️ I’m looking to collaborate on building Applications that makes processes easier
 - 📫 How to reach me ...
 
